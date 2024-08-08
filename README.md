@@ -1,4 +1,7 @@
-<h1 align="center">Fellas welcome to my githubpage I'm Nazlı</h1>
+<h1 align="center">Fellas welcome </h1>
+
+![ryan-gosling](https://github.com/user-attachments/assets/1ae2ecab-960b-41fb-b0aa-2a280f83d363)
+
 
 - 🤝 I’m looking for help with **Generative AI projects**
 
