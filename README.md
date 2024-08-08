@@ -1,4 +1,4 @@
-<h1 align="center">Fellas welcome I'm Nazlı</h1>
+<h1 align="center">Fellas welcome to my githubpage I'm Nazlı</h1>
 - I’m also currently learning **.NET and React**
 
 - 🤝 I’m looking for help with **Generative AI projects**
